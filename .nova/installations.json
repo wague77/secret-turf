@@ -1,4 +1,16 @@
 {
   "requireApproval": true,
-  "requests": []
+  "requests": [
+    {
+      "id": "req_1791494783705_2ylj3",
+      "projectId": "f3b5f780-79c6-4ed3-abaf-43a8eda040f8",
+      "firstName": "Ancienne app (SM-S721U Build/UP1A.231005.007)",
+      "deviceId": "legacy_241631d5297a0fc3",
+      "status": "approved",
+      "createdAt": "2026-10-08T21:26:23.705Z",
+      "updatedAt": "2026-10-08T21:27:29.709Z",
+      "platform": "Android APK (ancienne version)",
+      "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S721U Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/154.0.8037.57 Mobile Safari/537.36"
+    }
+  ]
 }
